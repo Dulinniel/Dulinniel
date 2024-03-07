@@ -34,4 +34,4 @@ TODO list:
 - [ ] ~~Win a fight against Gorythm~~
 
 ## Spotify
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31u3v7lk4nxl6wxf772i4wdp5qmy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31u3v7lk4nxl6wxf772i4wdp5qmy&cover_image=true&theme=default&show_offline=false&background_color=420354&interchange=true&bar_color=b22fee&bar_color_cover=true)]]
+[test[https://spotify-github-profile.vercel.app/api/view.svg?uid=31u3v7lk4nxl6wxf772i4wdp5qmy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31u3v7lk4nxl6wxf772i4wdp5qmy&cover_image=true&theme=default&show_offline=false&background_color=420354&interchange=true&bar_color=b22fee&bar_color_cover=true)]]
