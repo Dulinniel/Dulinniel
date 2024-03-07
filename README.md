@@ -22,3 +22,13 @@ inoremap ( ()<left>
 inoremap { {}<left>
 inoremap [ []<left>
 ```
+Don't try to reach my [website](https://rileys-thingies.fr) it's offline, I didn't renew my subscription.
+
+TODO list:
+
+- [ ] Repair Heza's castle
+- [ ] Write a book
+- [x] Feed the phasm
+- [x] Headpat that red haired guy
+- [ ] Fight the killbot apocalypse
+- [ ] ~~Win a fight against Gorythm~~
