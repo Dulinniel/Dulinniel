@@ -9,11 +9,11 @@ The profile picture was done by [Sam](https://www.instagram.com/chat.d.encre/)
 
 ## My Workstation Config
 
-**Computer :** [Tuxedo Pulse 15 Gen 2](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-15-Gen2.tuxedo#configurator)
-**OS :** Debian 12 - Bookworm 
-**Code Editor :** Sublime-Text 4 / vim
-**Terminal :** Kitty + zsh 
-**Keyboard :** Akko Hello Kitty - QWERTY <-- Most important gear
+**Computer :** [Tuxedo Pulse 15 Gen 2](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-15-Gen2.tuxedo#configurator) \
+**OS :** Debian 12 - Bookworm \
+**Code Editor :** Sublime-Text 4 / vim \
+**Terminal :** Kitty + zsh \
+**Keyboard :** Akko Hello Kitty - QWERTY *<-- Most important gear*
 
 TODO list:
 
