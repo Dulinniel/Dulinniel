@@ -11,8 +11,8 @@ The profile picture was done by [Sam](https://www.instagram.com/chat.d.encre/)
 
 **Computer :** [Tuxedo Pulse 15 Gen 2](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-15-Gen2.tuxedo#configurator) \
 **OS :** Debian 12 - Bookworm \
-**Code Editor :** Sublime-Text 4 / vim \
-**Terminal :** Kitty + zsh \
+**Code Editor :** Sublime-Text 4 / [nvim](https://github.com/Dulinniel/nvim-config) \
+**Terminal :** Alacritty + bash \
 **Keyboard :** Akko Hello Kitty - QWERTY *<-- Most important gear*
 
 TODO list:
