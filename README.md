@@ -23,7 +23,3 @@ TODO list:
 - [x] Be more lesbian than the previous day
 - [ ] Fight the killbot apocalypse
 - [ ] ~~Win a fight against Gorythm~~
-
-## Currently listening to
-
-[![Spotify](https://novatorem-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/31u3v7lk4nxl6wxf772i4wdp5qmy)
