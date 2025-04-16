@@ -10,8 +10,8 @@ The profile picture was done by [Sam](https://www.instagram.com/chat.d.encre/)
 ## My Workstation Config
 
 **Computer :** [Tuxedo Pulse 15 Gen 2](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-15-Gen2.tuxedo#configurator) \
-**OS :** Debian 13 - Trixie \
-**Code Editor :** Sublime-Text 4 / [nvim](https://github.com/Dulinniel/nvim-config) \
+**OS :** Debian 12 - Bookworm \
+**Code Editor :** [nvim](https://github.com/Dulinniel/nvim-config) \
 **Terminal :** Alacritty + bash \
 **Keyboard :** Akko Hello Kitty - QWERTY *<-- Most important gear*
 
